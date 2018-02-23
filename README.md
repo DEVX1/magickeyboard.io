@@ -1,5 +1,7 @@
 # Magic Keyboard
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/feross/magickeyboard.io.svg)](https://greenkeeper.io/)
+
 ### Live demo: [magickeyboard.io](http://magickeyboard.io)
 
 I built this little hack after seeing an [animated GIF on /r/gifs](https://www.reddit.com/r/gifs/comments/3t5ssx/magic_keyboard/):
