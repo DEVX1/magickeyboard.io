@@ -11,13 +11,13 @@
     "url": "https://github.com/feross/magic-keyboard/issues"
   },
   "dependencies": {
-    "matter-js": "^0.10.0",
+    "matter-js": "^0.14.1",
     "preload-img": "^1.0.0",
     "vkey": "^1.0.0"
   },
   "devDependencies": {
-    "browserify": "^14.0.0",
-    "ecstatic": "^2.1.0",
+    "browserify": "^16.1.0",
+    "ecstatic": "^3.2.0",
     "simple-get": "^2.3.0",
     "standard": "*",
     "watchify": "^3.6.1"
